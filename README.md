@@ -12,9 +12,9 @@
 8. spring-boot-rabbitmq-listener service act as consumer of message from rabbitmq.
 
 Tech Stack:-
-Java
-Spring boot
-Spring cloud
+1. Java
+2. Spring boot
+3. Spring cloud
 
 Api calls for testing:-
 1. http://localhost:9999/products/001
