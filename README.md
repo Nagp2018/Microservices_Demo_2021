@@ -17,5 +17,5 @@ Spring boot
 Spring cloud
 
 Api calls for testing:-
-http://localhost:9999/products/001
-http://localhost:9999/products/price/001
+1. http://localhost:9999/products/001
+2. http://localhost:9999/products/price/001
